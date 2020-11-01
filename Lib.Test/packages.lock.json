@@ -1704,7 +1704,7 @@
         "type": "Project"
       }
     },
-    ".NETFramework,Version=v4.7": {
+    ".NETFramework,Version=v4.8": {
       "coverlet.collector": {
         "type": "Direct",
         "requested": "[1.3.0, )",
