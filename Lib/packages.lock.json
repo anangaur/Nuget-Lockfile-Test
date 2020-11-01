@@ -55,8 +55,6 @@
       }
     },
     ".NETCoreApp,Version=v3.1": {},
-    ".NETFramework,Version=v4.6.1": {},
-    ".NETFramework,Version=v4.7": {},
     ".NETStandard,Version=v2.0": {
       "NETStandard.Library": {
         "type": "Direct",
